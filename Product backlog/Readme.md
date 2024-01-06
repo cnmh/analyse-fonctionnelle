@@ -2,7 +2,7 @@
 
 ## Travail à faire 
 
-- Réalisation de Product Backlog
+- Réalisation de Product Backlog en se basant sur la liste des tâches sachant que le product backlog est une liste des items et chaque items est une ensemble des tâches.
 
 ## Liste des livrables 
 
