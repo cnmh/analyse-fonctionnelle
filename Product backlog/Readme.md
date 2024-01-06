@@ -8,12 +8,15 @@
 
 - Product-backlog.md
   - github.com/cnmh/analyse
+- Présentation de réalisation-product-backlog
+  - à copier à partire de 
+    - Besoin.pptx
+    - Analyse.pptx
 
 ## Liste des PullRequests
 
 - Création de fichier readme.md
-- Création de backlog
-
+- Création de backlog close #5
 
 ## Critères de validation
 - Création d'un dossier qui porte le nom de la tâche
