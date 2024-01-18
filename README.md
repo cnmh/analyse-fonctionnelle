@@ -1,15 +1,15 @@
-# Analyse
+# Backlog Analyse 
 
-## Travail à faire 
+## issues
 
-## Critère de validation 
+0. backlog-analyse
+1. diagramme-cas-utilisation
+2. diagramme-cas-utilisation-social
+3. scénarios-social
+4. diagramme-cas-utilisation-médical
+5. scénario-médical
+6. cas-utilisations-critiques
 
-## Livrable 
-
-## Commande pour création des slides Powerpoints
-
-Le projet : gestion-projet doit être clonner avec le projet analyse dans un dossier appelé cnmh
-
-```bash
- ..\gestion-projet\toppt\create_pptx.ps1
-```
+## Milestones 
+- analyse-fonctionnelle
+- 
