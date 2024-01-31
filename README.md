@@ -3,6 +3,7 @@
 ## Backlog
 
 - backlog
+- diagramme-cas-utilisation-globale 
 - diagramme-cas-utilisation-directrice
 - diagramme-cas-utilisation-social
 - diagramme-cas-utilisation-médical
