@@ -4,10 +4,8 @@ slug: /index
 order : 1
 ---
 
- 
 {%- assign pages = site.pages | sort: "order"  -%}
  
 {% for page in pages %}
-- [{{ page.name }}]({{site.baseurl}}/{{ page.url }})
+{{ page.content }}
 {% endfor %}  
- 
