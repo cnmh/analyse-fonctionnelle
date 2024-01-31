@@ -1,15 +1,16 @@
-# Analyse
+#  Analyse 
 
-## Travail à faire 
+## Backlog
 
-## Critère de validation 
+- backlog
+- diagramme-cas-utilisation-directrice
+- diagramme-cas-utilisation-social
+- diagramme-cas-utilisation-médical
+- scénario-médical
+- scénarios-social
+- scénarios-directrice 
+- rapport-analyse 
+- Présentation-analyse
 
-## Livrable 
 
-## Commande pour création des slides Powerpoints
-
-Le projet : gestion-projet doit être clonner avec le projet analyse dans un dossier appelé cnmh
-
-```bash
- ..\gestion-projet\toppt\create_pptx.ps1
-```
+## Rapport  
