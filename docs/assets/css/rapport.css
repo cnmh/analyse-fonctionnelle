@@ -4,14 +4,21 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+/* fix image taille error */
 img {
   width: 100%;
 }
 
-/* Figure */
-img+p {
-  display: block;
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+figcaption {
   text-align: center;
+}
+
+figcaption {
   font-style: italic;
   font-size: 14px;
   color: #666;
@@ -23,16 +30,8 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 30px;
 }
-
-h3 {
-  font-size: 1.17em;
-}
-
-/* code {
-  display: none;
-} */
 
 article[size="A4"] {
   display: block;
