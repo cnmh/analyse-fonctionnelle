@@ -1,12 +1,17 @@
 ---
-layout : default
-order : 1
+layout: default
+title: /index
+order: 3
 ---
 
-{%- assign pages = site.pages | sort: "order"  -%}
- 
 
- 
-{% for page in pages %}
-{{ page.content }}
-{% endfor %}  
+
+
+
+## livrable
+
+### Rapport 
+[Rapport.html](https://labs-web.github.io/lab-git/rapport.html)
+
+### Présentation 
+[Présentation]()
