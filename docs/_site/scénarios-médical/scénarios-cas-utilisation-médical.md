@@ -1,1 +1,0 @@
-# Scénarios Cas Utilisation Médical
