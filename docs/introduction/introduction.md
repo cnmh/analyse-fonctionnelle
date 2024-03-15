@@ -9,7 +9,7 @@ order: 1
 
 ## Introduction 
 
-![Introduction](./images/Analyse.png){:width="700px"}
+![Introduction](./introduction/images/Analyse.png){:width="500px"}
 *Figure : Introduction*
 
 <!-- note -->
