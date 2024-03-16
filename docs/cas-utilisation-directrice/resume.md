@@ -3,7 +3,7 @@ layout: default
 chapitre: Resumer
 order: 11
 ---
-# cas d'utilisation directrice
+# Cas d'utilisation directrice
 
 ![cas-utilisation-directrice](/analyse/cas-utilisation-directrice/images/cas-utilisation-directrice.PNG){: width="700px" }*Figure : Cas d'utilisation directrice*
 <!-- note -->
