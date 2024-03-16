@@ -4,15 +4,17 @@ chapitre: Resumer
 order: 11
 ---
 
-# diagramme de cas d'utilisation-global
+# Cas d'utilisation global
 
-![diagramme de cas d'utilisation-global](/analyse/cas-utilisation-global/images/global.jpg){: width="100%" }
+![diagramme de cas d'utilisation-global](/analyse/cas-utilisation-global/images/image.png){: width="700px" } *figure: Cas d'utilisation global*
 
 <!-- note -->
+
+## Livrable
+
 ### Lien de Rapport
 
 - [Rapport](/analyse/cas-utilisation-global/rapport.html)
-
 
 ### Lien de la Présentation
 
