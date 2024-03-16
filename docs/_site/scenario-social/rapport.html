@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+<html dir="ltr" lang="en-US">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="/analyse/assets/css/rapport.css">
+        <link rel="stylesheet" href="/analyse/assets/css/customRapport.css">
+        <title> Rapport </title>
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+
+    </head>
+    <body>
+        <div class="book">
+            <a id="presentation-icon" href="/analyse/presentation.html" target="_blank">
+                <img src="/analyse/images/entreprise.png" width="80px" height="80px"  />
+            </a>
+            <div class="page">
+                    
+<h2 id="scénario-nominal">Scénario nominal</h2>
+
+<p><img src="/analyse/scenario-social/images/Scénario entretien social.png" alt="Scenario social" width="90%" /><em>Figure : Scenario nominal du service social Khawla souan</em></p>
+
+<!-- new slide -->
+
+<h2 id="scénario-alternative">Scénario alternative</h2>
+
+<p><img src="/analyse/scenario-social/images/Scénario2.png" alt="Scénario alternative" width="90%" /><em>Figure : Scénario alternative du service social Khawla souan</em></p>
+
+<!-- new slide -->
+
+<h2 id="scénario-alternative-1">Scénario alternative</h2>
+
+<p><img src="/analyse/scenario-social/images/Scénario3.png" alt="Scénario alternative" width="90%" /><em>Figure : Scénario alternative du service social Khawla souan</em>
+<!-- new slide --></p>
+
+
+            </div>
+           
+        </div>
+    </body>
+
+    <script>
+
+// Ajouter un séparateur des pages avant chaque élément h1
+// utilisation hr comme séparateur des pages
+document.querySelectorAll('h1')
+  .forEach((tag) => {
+    const insertBefore = (el, htmlString) =>
+        el.insertAdjacentHTML('beforebegin', htmlString);
+        insertBefore(tag, "<hr />");
+  });
+    </script>
+    <script>hljs.highlightAll();</script>
+
+
+</html>
