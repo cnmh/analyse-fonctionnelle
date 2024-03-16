@@ -9,7 +9,7 @@ order: 17
 
 # Conclusion
 
-![Conclusion]({{site.baseurl}}/conclusion/images/conclusionabc.jpg){:width="300px"}*Figure : Conclusion*
+![Conclusion]({{site.baseurl}}/conclusion/images/conclusionabc.jpg){:width="700px"}*Figure : Conclusion*
 
 
 
