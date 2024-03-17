@@ -1,7 +1,7 @@
 ---
 layout: default
 chapitre: Resumer
-order: 6
+order: 5
 ---
 # Les scénarios du service social 
 - Scénario nominal : Ajouter un entretien social d’un nouveau patient et tuteur
