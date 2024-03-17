@@ -4,10 +4,7 @@ chapitre: Introduction
 order: 1
 ---
 
-# Analyse
-<!-- new slide -->
-
-## Introduction 
+# Introduction 
 
 ![Introduction](./introduction/images/Analyse.png){:width="500px"}
 *Figure : Introduction*
