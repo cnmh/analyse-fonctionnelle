@@ -1,7 +1,7 @@
 ---
 layout: default
 chapitre: Resumer
-order: 11
+order: 3
 ---
 # Cas d'utilisation directrice
 
