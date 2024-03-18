@@ -1,12 +1,11 @@
 ---
-layout : default
-order : 1
+layout: default
+order: 1
 ---
 
-{%- assign pages = site.pages | sort: "order"  -%}
- 
-
- 
+{% assign pages = site.pages | sort: "order" %}
 {% for page in pages %}
-{{ page.content }}
-{% endfor %}  
+ {% if page.chapitre %}
+    {{- page.content | markdownify -}}
+  {% endif %}
+{% endfor %}
