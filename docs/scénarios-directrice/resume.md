@@ -3,7 +3,7 @@ layout: default
 chapitre: Resumer
 order: 9
 ---
-# Les scénarios de directrice 
+# Le scénario de directrice 
 
 La directice se connecte au systéme afin d'accéder aux statistiques globales du CNMH ,ainsi que celles de chaque pôle . Elle peut ainsi suivre l'avancement  spécifique de chaque pôle au sein du centre 
 
