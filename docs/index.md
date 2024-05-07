@@ -12,3 +12,7 @@ order: 1
 - Gestion des Authorization
     - [Rapport Gestion des Authorization](https://labs-web.github.io/prototype/documentation/authorization/)
     - [Présentation Gestion des Authorization](https://labs-web.github.io/prototype/documentation/authorization/presentation.html#/)
+- Pole medicale
+    - Médecine-général
+      - [Rapport-médecine-général ](https://cnmh.github.io/analyse/documentation/cas-utilisation-médecine-général) 
+      - [Présentation-médecine-général ](https://cnmh.github.io/analyse/documentation/cas-utilisation-médecine-général/presentation) 
