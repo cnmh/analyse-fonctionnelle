@@ -8,6 +8,8 @@ order: 4
 # Pôle social 
 {:class="sectionHeader"}
 
+<!-- new slide -->
+
 ## Idéation 
 - Créez une application web qui permettra :
     - Automatiser le processus de création de dossier social pour réduire les délais.

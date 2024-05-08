@@ -6,8 +6,6 @@ order: 5
 ---
 
 ## Diagramme de cas d'utilisation 
-![Pôle social ](/analyse/Pôle-sociale/images/Analyse.png){: width="600px" }*Figure : Diagramme de cas d'utilisation Pôle social *
-
-
+![Pôle social ](/analyse/Pôle-sociale/images/Analyse.png){: width="900px" }*Figure : Diagramme de cas d'utilisation Pôle social*
 
 <!-- new slide -->
