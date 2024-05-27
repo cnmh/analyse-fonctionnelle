@@ -12,3 +12,7 @@ order: 1
 - Gestion des Authorization
     - [Rapport Gestion des Authorization](https://labs-web.github.io/prototype/documentation/authorization/)
     - [Présentation Gestion des Authorization](https://labs-web.github.io/prototype/documentation/authorization/presentation.html#/)
+  
+ - Pôle Sociale 
+    - [Presentation Pôle Sociale ](https://labs-web.github.io/analyse/documentation/Pôle-sociale/presentation.html#/)
+   - [Rapport Pôle Sociale](https://labs-web.github.io/analyse/documentation/Pôle-sociale/)
