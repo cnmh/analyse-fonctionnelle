@@ -1,10 +1,8 @@
 ---
-layout : default
-order : 4
+layout: default
+scenario: scenarioderectrice
+order: 9
 ---
-# Rédaction de scénarios-directrice
+## Le Scénarios du  directrice
 
-![Rédaction de scénarios-directrice](images/scenarios-directrice-redaction.png)
-
-## Scénarios-directrice
-![Scénarios-directrice](images/scenarios-directrice.png)
+![Scénarios-directrice](/analyse/scénarios-directrice/images/scenarios-directrice.png){: width="80%" }*Figure : Scénarios-directrice*
